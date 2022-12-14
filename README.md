@@ -1,8 +1,7 @@
 ### Hola, I am Krunal Sisodia 👋
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning React.js.
-- 💬 Ask me about HTML, CSS or any web designing related stuff.
+- 💬 Ask me about HTML, CSS or JavaScript any web designing related stuff.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/krunal-sisodia-48ba50124/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I can spend whole day to play games.
