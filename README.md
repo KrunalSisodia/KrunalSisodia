@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a freelancer.
 - 💬 Ask me about HTML, CSS or JavaScript any web designing related stuff.
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/krunal-sisodia-48ba50124/
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/krunalsisodia
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I can spend whole day to play games.
 
